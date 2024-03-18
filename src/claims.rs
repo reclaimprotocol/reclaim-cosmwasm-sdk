@@ -3,7 +3,7 @@
 use crate::ContractError;
 mod identity_digest;
 #[cfg(feature = "vanilla")]
-use cosmwasm_std::{Addr, CanonicalAddr, DepsMut, Uint128};
+use cosmwasm_std::DepsMut;
 use k256::{
     ecdsa::{RecoveryId, Signature, VerifyingKey}, // type aliases
 };
