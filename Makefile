@@ -19,3 +19,4 @@ test:
 	cargo +nightly test -- --nocapture
 clean:
 	cargo clean
+	rm reclaim_cosmwasm.wasm reclaim_cosmwasm.wasm.gz
