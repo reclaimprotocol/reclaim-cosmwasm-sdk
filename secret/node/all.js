@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const wallet = new Wallet(process.env.MNEMONIC); // YOUR passphrase
-const contract_wasm = fs.readFileSync("../reclaim_cosmwasm.wasm.gz");
+const contract_wasm = fs.readFileSync("../../reclaim_cosmwasm.wasm.gz");
 const owner = process.env.OWNER // YOUR address corresponding to the MNEMONIC above
 
 const secretjs = new SecretNetworkClient({
