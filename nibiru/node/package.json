@@ -1,0 +1,18 @@
+{
+    "name": "nib-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "npm run build && node dist/index.js",
+      "build": "rm -rf dist && tsc --build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "@nibiruchain/nibijs": "^0.21.45",
+      "dotenv": "^16.4.1"
+    }
+  }
+  

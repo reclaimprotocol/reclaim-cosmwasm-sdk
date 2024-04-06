@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const wallet = new Wallet(process.env.MNEMONIC);
-const contract_wasm = fs.readFileSync("../reclaim_cosmwasm.wasm.gz");
+const contract_wasm = fs.readFileSync("../../reclaim_cosmwasm.wasm.gz");
 
 console.log(contract_wasm.byteLength)
 const secretjs = new SecretNetworkClient({
