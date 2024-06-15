@@ -3,7 +3,7 @@
 
 ## Deployments
 
-| Chain Name | Deployed address | Explorer Link |
+| Chain Name | Deployed Address | Explorer Link |
 |:-----------|:-----------------|:--------------|
 | Secret Mainnet | secret18u22df5dan6cyl6xuyjn9wsa3gauf53567ej90 | https://ping.pub/secret/account/secret18u22df5dan6cyl6xuyjn9wsa3gauf53567ej90|
 | Nibiru Mainnet | nibi1d7ffxpewty3zd0lq39l9rxc2wtmgv8j3gsg3qf5yglzewqp84mkqlttmme | https://explorer.nibiru.fi/cataclysm-1/account/nibi1d7ffxpewty3zd0lq39l9rxc2wtmgv8j3gsg3qf5yglzewqp84mkqlttmme|
