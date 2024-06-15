@@ -1,4 +1,4 @@
-# Reclaim - NEAR
+# Reclaim - CosmWasm
 
 
 ## Deployments
