@@ -2,6 +2,11 @@
   "name": "reclaim-cosmwasm-frontend-nibiru",
   "version": "0.1.0",
   "private": true,
+  "license": "See License in <https://github.com/reclaimprotocol/.github/blob/main/LICENSE>",
+  "bugs": {
+    "url": "https://github.com/reclaimprotocol/reclaim-cosmwasm-sdk/issues"
+  },
+  "homepage": "https://github.com/reclaimprotocol/reclaim-cosmwasm-sdk/",
   "dependencies": {
     "@nibiruchain/nibijs": "^3.3.4",
     "@reclaimprotocol/js-sdk": "^1.0.0",

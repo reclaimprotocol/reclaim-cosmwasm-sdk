@@ -9,7 +9,11 @@
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "See License in <https://github.com/reclaimprotocol/.github/blob/main/LICENSE>",
+    "bugs": {
+      "url": "https://github.com/reclaimprotocol/reclaim-cosmwasm-sdk/issues"
+    },
+    "homepage": "https://github.com/reclaimprotocol/reclaim-cosmwasm-sdk/",
     "dependencies": {
       "@nibiruchain/nibijs": "^0.21.45",
       "dotenv": "^16.4.1"
