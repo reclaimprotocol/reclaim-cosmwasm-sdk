@@ -17,6 +17,9 @@
     "dependencies": {
       "@nibiruchain/nibijs": "^0.21.45",
       "dotenv": "^16.4.1"
+    },
+    "overrides": {
+      "axios@0": "^0.35.0"
     }
   }
   
